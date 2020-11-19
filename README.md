@@ -1,6 +1,6 @@
 # JavasScript
 <div>
-   <img src="https://simpleicons.org/icons/javascript.svg" alt="js">
+   <img src="https://hackernoon.com/hn-images/1*OF0xEMkWBv-69zvmNs6RDQ.gif" alt="js">
 </div>
 
 A step by step breakdown of JavaScript fundamentals
